@@ -2,6 +2,8 @@
 
 2D platformer prototype built in **Unity 6** (6000.0.32f1).
 
+![Gameplay](docs/screenshot.jpg)
+
 ## Features
 - Player controller with ground/wall detection (`PlayerController`, `TouchingSpaceDirections`)
 - Enemy with detection zones and attacks (`Enemy`, `DetectionZone`, `Attck`)
